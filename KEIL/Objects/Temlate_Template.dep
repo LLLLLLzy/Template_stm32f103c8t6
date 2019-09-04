@@ -1,0 +1,132 @@
+Dependencies for Project 'Temlate', Target 'Template': (DO NOT MODIFY !)
+F (..\CODE\USER\main.c)(0x5D6E7EE5)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\CODE\STM32F10x_FWLib\inc -I ..\CODE\CORE -I ..\CODE\USER -I ..\CODE\APP -I ..\CODE\BSP -I ..\CODE\SYSTEM\delay -I ..\CODE\SYSTEM\sys-I.\RTE\_Template-ID:\MDK5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\CODE\USER\main.h)(0x5D6E7B1E)
+I (..\CODE\CORE\stm32f10x.h)(0x4D783CB4)
+I (..\CODE\CORE\core_cm3.h)(0x4D523B58)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\CODE\CORE\system_stm32f10x.h)(0x4D783CAA)
+I (..\CODE\CORE\stm32f10x_conf.h)(0x54AA3D0A)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x50515FBA)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\CODE\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\CODE\BSP\bsp.h)(0x5D6E1263)
+I (..\CODE\BSP\gpio.h)(0x5D6E7821)
+I (..\CODE\SYSTEM\delay\delay.h)(0x5D6E7B2C)
+I (..\CODE\SYSTEM\sys\sys.h)(0x5D6E7B1E)
+F (..\CODE\BSP\bsp.c)(0x5D6E7E1B)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\CODE\STM32F10x_FWLib\inc -I ..\CODE\CORE -I ..\CODE\USER -I ..\CODE\APP -I ..\CODE\BSP -I ..\CODE\SYSTEM\delay -I ..\CODE\SYSTEM\sys-I.\RTE\_Template-ID:\MDK5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\bsp.o --omf_browse .\objects\bsp.crf --depend .\objects\bsp.d)
+I (..\CODE\BSP\BSP.h)(0x5D6E1263)
+I (..\CODE\BSP\gpio.h)(0x5D6E7821)
+I (..\CODE\USER\main.h)(0x5D6E7B1E)
+I (..\CODE\CORE\stm32f10x.h)(0x4D783CB4)
+I (..\CODE\CORE\core_cm3.h)(0x4D523B58)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\CODE\CORE\system_stm32f10x.h)(0x4D783CAA)
+I (..\CODE\CORE\stm32f10x_conf.h)(0x54AA3D0A)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x50515FBA)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\CODE\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\CODE\SYSTEM\delay\delay.h)(0x5D6E7B2C)
+I (..\CODE\SYSTEM\sys\sys.h)(0x5D6E7B1E)
+F (..\CODE\BSP\gpio.c)(0x5D6E7DA1)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\CODE\STM32F10x_FWLib\inc -I ..\CODE\CORE -I ..\CODE\USER -I ..\CODE\APP -I ..\CODE\BSP -I ..\CODE\SYSTEM\delay -I ..\CODE\SYSTEM\sys-I.\RTE\_Template-ID:\MDK5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (..\CODE\BSP\gpio.h)(0x5D6E7821)
+I (..\CODE\USER\main.h)(0x5D6E7B1E)
+I (..\CODE\CORE\stm32f10x.h)(0x4D783CB4)
+I (..\CODE\CORE\core_cm3.h)(0x4D523B58)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\CODE\CORE\system_stm32f10x.h)(0x4D783CAA)
+I (..\CODE\CORE\stm32f10x_conf.h)(0x54AA3D0A)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x50515FBA)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\CODE\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\CODE\BSP\bsp.h)(0x5D6E1263)
+I (..\CODE\SYSTEM\delay\delay.h)(0x5D6E7B2C)
+I (..\CODE\SYSTEM\sys\sys.h)(0x5D6E7B1E)
+F (..\CODE\CORE\core_cm3.c)(0x4C0C587E)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\CODE\STM32F10x_FWLib\inc -I ..\CODE\CORE -I ..\CODE\USER -I ..\CODE\APP -I ..\CODE\BSP -I ..\CODE\SYSTEM\delay -I ..\CODE\SYSTEM\sys-I.\RTE\_Template-ID:\MDK5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\core_cm3.o --omf_browse .\objects\core_cm3.crf --depend .\objects\core_cm3.d)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+F (..\CODE\CORE\stm32f10x_it.c)(0x4EBEACB0)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\CODE\STM32F10x_FWLib\inc -I ..\CODE\CORE -I ..\CODE\USER -I ..\CODE\APP -I ..\CODE\BSP -I ..\CODE\SYSTEM\delay -I ..\CODE\SYSTEM\sys-I.\RTE\_Template-ID:\MDK5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_it.o --omf_browse .\objects\stm32f10x_it.crf --depend .\objects\stm32f10x_it.d)
+I (..\CODE\CORE\stm32f10x_it.h)(0x4D99A426)
+I (..\CODE\CORE\stm32f10x.h)(0x4D783CB4)
+I (..\CODE\CORE\core_cm3.h)(0x4D523B58)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\CODE\CORE\system_stm32f10x.h)(0x4D783CAA)
+I (..\CODE\CORE\stm32f10x_conf.h)(0x54AA3D0A)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x50515FBA)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\CODE\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\CODE\CORE\system_stm32f10x.c)(0x4D99A426)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\CODE\STM32F10x_FWLib\inc -I ..\CODE\CORE -I ..\CODE\USER -I ..\CODE\APP -I ..\CODE\BSP -I ..\CODE\SYSTEM\delay -I ..\CODE\SYSTEM\sys-I.\RTE\_Template-ID:\MDK5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (..\CODE\CORE\stm32f10x.h)(0x4D783CB4)
+I (..\CODE\CORE\core_cm3.h)(0x4D523B58)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\CODE\CORE\system_stm32f10x.h)(0x4D783CAA)
+I (..\CODE\CORE\stm32f10x_conf.h)(0x54AA3D0A)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x50515FBA)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\CODE\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\CODE\CORE\startup_stm32f10x_md.s)(0x5D4305BC)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Template-ID:\MDK5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (..\CODE\SYSTEM\delay\delay.c)(0x5D6E7EFC)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\CODE\STM32F10x_FWLib\inc -I ..\CODE\CORE -I ..\CODE\USER -I ..\CODE\APP -I ..\CODE\BSP -I ..\CODE\SYSTEM\delay -I ..\CODE\SYSTEM\sys-I.\RTE\_Template-ID:\MDK5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (..\CODE\SYSTEM\delay\delay.h)(0x5D6E7B2C)
+I (..\CODE\SYSTEM\sys\sys.h)(0x5D6E7B1E)
+I (..\CODE\CORE\stm32f10x.h)(0x4D783CB4)
+I (..\CODE\CORE\core_cm3.h)(0x4D523B58)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\CODE\CORE\system_stm32f10x.h)(0x4D783CAA)
+I (..\CODE\CORE\stm32f10x_conf.h)(0x54AA3D0A)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x50515FBA)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\CODE\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\CODE\STM32F10x_FWLib\src\misc.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\CODE\STM32F10x_FWLib\inc -I ..\CODE\CORE -I ..\CODE\USER -I ..\CODE\APP -I ..\CODE\BSP -I ..\CODE\SYSTEM\delay -I ..\CODE\SYSTEM\sys-I.\RTE\_Template-ID:\MDK5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (..\CODE\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\CODE\CORE\stm32f10x.h)(0x4D783CB4)
+I (..\CODE\CORE\core_cm3.h)(0x4D523B58)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\CODE\CORE\system_stm32f10x.h)(0x4D783CAA)
+I (..\CODE\CORE\stm32f10x_conf.h)(0x54AA3D0A)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x50515FBA)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+F (..\CODE\STM32F10x_FWLib\src\stm32f10x_gpio.c)(0x4D79EEC6)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\CODE\STM32F10x_FWLib\inc -I ..\CODE\CORE -I ..\CODE\USER -I ..\CODE\APP -I ..\CODE\BSP -I ..\CODE\SYSTEM\delay -I ..\CODE\SYSTEM\sys-I.\RTE\_Template-ID:\MDK5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x50515FBA)
+I (..\CODE\CORE\stm32f10x.h)(0x4D783CB4)
+I (..\CODE\CORE\core_cm3.h)(0x4D523B58)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\CODE\CORE\system_stm32f10x.h)(0x4D783CAA)
+I (..\CODE\CORE\stm32f10x_conf.h)(0x54AA3D0A)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\CODE\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\CODE\STM32F10x_FWLib\src\stm32f10x_rcc.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\CODE\STM32F10x_FWLib\inc -I ..\CODE\CORE -I ..\CODE\USER -I ..\CODE\APP -I ..\CODE\BSP -I ..\CODE\SYSTEM\delay -I ..\CODE\SYSTEM\sys-I.\RTE\_Template-ID:\MDK5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\CODE\CORE\stm32f10x.h)(0x4D783CB4)
+I (..\CODE\CORE\core_cm3.h)(0x4D523B58)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\CODE\CORE\system_stm32f10x.h)(0x4D783CAA)
+I (..\CODE\CORE\stm32f10x_conf.h)(0x54AA3D0A)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x50515FBA)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\CODE\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\CODE\STM32F10x_FWLib\src\stm32f10x_tim.c)(0x5D43B74A)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\CODE\STM32F10x_FWLib\inc -I ..\CODE\CORE -I ..\CODE\USER -I ..\CODE\APP -I ..\CODE\BSP -I ..\CODE\SYSTEM\delay -I ..\CODE\SYSTEM\sys-I.\RTE\_Template-ID:\MDK5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Core\Include-ID:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_tim.o --omf_browse .\objects\stm32f10x_tim.crf --depend .\objects\stm32f10x_tim.d)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\CODE\CORE\stm32f10x.h)(0x4D783CB4)
+I (..\CODE\CORE\core_cm3.h)(0x4D523B58)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\CODE\CORE\system_stm32f10x.h)(0x4D783CAA)
+I (..\CODE\CORE\stm32f10x_conf.h)(0x54AA3D0A)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x50515FBA)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\CODE\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\CODE\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)

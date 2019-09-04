@@ -1,3 +1,9 @@
+#LZY
+*.lzy
+*.JLinkLGO.txt
+*.ini
+*.uvoptx
+
 # Prerequisites
 *.d
 

@@ -1,1 +1,1 @@
-# Template_stm32f103c9-8t6
+# Template_stm32f103c8
